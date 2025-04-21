@@ -14,3 +14,6 @@ Below are examples to use "Drag" word -
 1.Press and drag image from desktop to MS word  
 2.Drag the image from desktop to MS Word  
 3.Drag xyz option from More filters box to Filters box  
+
+1. A user should save their settings  
+- A user should save their settings
